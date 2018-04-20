@@ -1,0 +1,11 @@
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations\bin\Debug\EfBulkOperations.dll.config
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations\bin\Debug\EfBulkOperations.dll
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations\bin\Debug\EfBulkOperations.pdb
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations\bin\Debug\EntityFramework.dll
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations\bin\Debug\EntityFramework.SqlServer.dll
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations\bin\Debug\EntityFramework.xml
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations\bin\Debug\EntityFramework.SqlServer.xml
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations\obj\Debug\EfBulkOperations.csprojResolveAssemblyReference.cache
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations\obj\Debug\EfBulkOperations.csproj.CoreCompileInputs.cache
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations\obj\Debug\EfBulkOperations.dll
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations\obj\Debug\EfBulkOperations.pdb

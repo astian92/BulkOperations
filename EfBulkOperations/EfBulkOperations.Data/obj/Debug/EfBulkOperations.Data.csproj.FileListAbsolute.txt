@@ -1,0 +1,14 @@
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations.Data\bin\Debug\EfBulkOperations.Data.dll.config
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations.Data\bin\Debug\EfBulkOperations.Data.dll
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations.Data\bin\Debug\EfBulkOperations.Data.pdb
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations.Data\bin\Debug\EntityFramework.dll
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations.Data\bin\Debug\EntityFramework.xml
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations.Data\obj\Debug\EfBulkOperations.Data.csproj.CoreCompileInputs.cache
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations.Data\obj\Debug\EfBulkOperations.Data.dll
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations.Data\obj\Debug\EfBulkOperations.Data.pdb
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations.Data\obj\Debug\EfBulkOperations.Data.csprojResolveAssemblyReference.cache
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations.Data\obj\Debug\EfBulkOperations.Data.Migrations.EmployeesAndCompanies.resources
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations.Data\obj\Debug\EfBulkOperations.Data.csproj.GenerateResource.Cache
+C:\MMA\Projects\Misc\EfBulkOperations\EfBulkOperations.Data\obj\Debug\EfBulkOperations.Data.Migrations.ClientsAndCredentials.resources
